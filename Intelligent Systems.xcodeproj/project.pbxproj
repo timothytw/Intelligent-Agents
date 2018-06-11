@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		1C279EF420CF1C4A00718B0F /* Intelligent Systems */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Intelligent Systems"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C279EF720CF1C4A00718B0F /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		1C279EFE20CF1E1D00718B0F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				1C279EF720CF1C4A00718B0F /* main.cpp */,
+				1C279EFE20CF1E1D00718B0F /* README.md */,
 			);
 			path = "Intelligent Systems";
 			sourceTree = "<group>";
