@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Intelligent Systems.xcodeproj">
+      location = "self:/Users/Timothy/Documents/Learn/ai/Intelligent Systems/Intelligent Agents.xcodeproj">
    </FileRef>
 </Workspace>
